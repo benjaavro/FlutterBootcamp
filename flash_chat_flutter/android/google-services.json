@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998379792992",
+    "firebase_url": "https://flash-cat-ac4e3.firebaseio.com",
+    "project_id": "flash-cat-ac4e3",
+    "storage_bucket": "flash-cat-ac4e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998379792992:android:113903b7c14084f83ff105",
+        "android_client_info": {
+          "package_name": "co.benjaavro.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998379792992-q8iqos7vcl2d8l0lf8ah2kaoiutf9k24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBHG72fM30mjfVyhFzqZgHV_6ch9PvIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998379792992-q8iqos7vcl2d8l0lf8ah2kaoiutf9k24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
